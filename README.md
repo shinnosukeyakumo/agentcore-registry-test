@@ -1,4 +1,4 @@
-# Amazon Bedrock Agent Registry 検証
+# AWS Agent Registry 検証
 
 Amazon Bedrock AgentCore の **Agent Registry** を Python から操作する検証コードです。
 MCPサーバーの登録・承認・検索から、Strands Agents との連携まで一通り試せます。
